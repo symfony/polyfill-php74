@@ -1,11 +1,12 @@
 Symfony Polyfill / Php74
 ========================
 
-This component provides functions added to PHP 7.4 core:
+This component provides functions and classes added to PHP 7.4 core:
 
 - [`get_mangled_object_vars`](https://php.net/get_mangled_object_vars)
 - [`mb_str_split`](https://php.net/mb_str_split)
 - [`password_algos`](https://php.net/password_algos)
+- [`WeakReference`](https://www.php.net/manual/en/class.weakreference)
 
 More information can be found in the
 [main Polyfill README](https://github.com/symfony/polyfill/blob/master/README.md).
